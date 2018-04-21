@@ -7,6 +7,4 @@ https://solarianprogrammer.com/2015/06/04/opencv-video-editing-tutorial/
 
 Copyright 2015 Sol from www.solarianprogrammer.com
 
-The *Big Buck Bunny* movie used in the tutorial is (c) copyright 2008, Blender Foundation / www.bigbuckbunny.org you can get a copy from http://mirror.bigbuckbunny.de/peach/bigbuckbunny_movies/big_buck_bunny_720p_surround.avi
-
-
+The *Big Buck Bunny* movie used in the tutorial is (c) copyright 2008, Blender Foundation / www.bigbuckbunny.org you can get a copy from http://download.blender.org/peach/bigbuckbunny_movies/
